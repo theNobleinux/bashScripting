@@ -1,8 +1,8 @@
-#### you find script that helps improve you day to day life using linux
+## you find script that helps improve you day to day life using linux
 
 
 
-##System_health_check
+## System_health_check
 this checks for the system CPU usage, memory consumption, disk storage usage and active network connections 
 
 
@@ -15,5 +15,5 @@ this checks for the system CPU usage, memory consumption, disk storage usage and
 
 
 
-author_by theNobleinux
+## Author_By: theNobleinux
 all script are for education purpose only
