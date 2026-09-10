@@ -22,3 +22,4 @@ echo
 
 echo "I'm done with this script"
 echo "-------------------------------"
+echo $0
